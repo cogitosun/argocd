@@ -35,7 +35,7 @@ clusters:
     namespaces: "default"
     url: "http:xxxx" 
 common:
-  namespsace: "tools"
+  namespace: "tools"
 environmentStates:
   directoryInclude: '{dev/*}'
   repoUrl: httpenvironement states
