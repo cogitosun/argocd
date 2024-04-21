@@ -1,0 +1,11 @@
+imageName: ''
+repository: ''
+repositories:
+  argocd-service:
+    images:
+      argocd-endpoints:
+        container: argocd-container
+        domain: cogitosun
+        imageName: argocd-endpoints
+        
+    
